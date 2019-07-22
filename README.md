@@ -1,9 +1,11 @@
 Galaxy SEO Support
 ===
 
+fork from mdg:seo
+
 Makes use of the built-in SEO support in Galaxy. If your app qualifies for SEO support, run:
 
-`meteor add mdg:seo`
+`meteor add pathable:seo`
 
 to turn on the built-in Prerender.io integration.  You may also use this package with non-Galaxy deployments if you configure it manually.
 
